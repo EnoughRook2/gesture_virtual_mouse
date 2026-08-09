@@ -19,3 +19,4 @@ A fun little thing I made, It uses real time camera feed to watch gestures to mi
 - Python 3.9+
 - Webcam
 
+<img width="320" height="320" alt="IMG_5246" src="https://github.com/user-attachments/assets/e9cb5004-54e0-4801-80b5-c9f34a6e3ea0" />
