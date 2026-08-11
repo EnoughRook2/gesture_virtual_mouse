@@ -20,3 +20,7 @@ A fun little thing I made, It uses real time camera feed to watch gestures to mi
 - Webcam
 
 <img width="320" height="320" alt="IMG_5246" src="https://github.com/user-attachments/assets/e9cb5004-54e0-4801-80b5-c9f34a6e3ea0" />
+
+## Tutorial Video
+
+[![Watch the video](https://youtube.com)](https://youtu.be/aLrvXvzmsc8)
