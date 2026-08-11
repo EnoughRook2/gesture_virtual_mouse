@@ -23,4 +23,5 @@ A fun little thing I made, It uses real time camera feed to watch gestures to mi
 
 ## Tutorial Video
 
-[![Watch the video](https://youtube.com)](https://youtu.be/aLrvXvzmsc8)
+[![Watch the video](https://github.com/user-attachments/assets/1ff6f756-9af3-4286-bdb5-20edfe5fcac9)](https://youtu.be/aLrvXvzmsc8)
+
